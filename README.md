@@ -1,7 +1,7 @@
 # Gradient Descent Method
 这个算法很关键
 
-#Task Formation
+# Task Formation
 
 $$ 
 
