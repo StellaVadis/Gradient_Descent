@@ -3,7 +3,7 @@
 
 #Task Formation
 
-$$ \\
+$$ 
 
 \begin{align}
 \text{Minimize} & \quad f(\boldsymbol{x})  \\
@@ -11,7 +11,7 @@ $$ \\
     \boldsymbol{x} \in \text{dom}(f) 
 \end{align}
 
-$$ \\
+$$ 
 
 where $\boldsymbol{x} \in \mathbb{R}^n$
 
