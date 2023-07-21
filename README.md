@@ -14,7 +14,7 @@ where $\boldsymbol{x} \in \mathbb{R}^n$
 
 #Algorithm and Solution
 The solution given by gradient descent method is:
-$\lim \limits_{n \rightarrow \infty}$ GD $(n)$, where GD$(n)$ is the following acknowlegded function:
+$\lim \limits_{n \rightarrow \infty}$ GD $(n)$, where GD $(n)$ is the following acknowlegded function:
 
 <div style="background-color: #f2f2f2; padding: 10px;">
 
